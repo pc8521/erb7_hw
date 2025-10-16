@@ -1,0 +1,42 @@
+#hearder {
+    height: 50px;
+    background: #f68402;
+    color: #000000;
+}
+
+#branding h1 {
+    color:#ffffff;
+}
+
+a:link,
+a:visited {
+    color: #1363ed;
+}
+
+div.breadcrumbs {
+    background: #f68402;
+    color:#1363ed;
+}
+
+div.breadcrumbs a {
+    color:#1363ed;
+}
+
+.module h2,
+.module caption,
+.inlinegroup h2 {
+    background: #f68402;
+}
+
+.button,
+input[type="submit"],
+input[type="button"],
+.submit-row input,
+a.button {
+    background: #f68402;
+    color: #ffffff;
+}
+
+.brands {
+    margin-left: 15px;
+}
