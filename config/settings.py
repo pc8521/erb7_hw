@@ -46,7 +46,7 @@ DJANGO_APPS = [
 ]
 
 APPLICATION_APPS = [
-    
+    'data_import.apps.DataImportConfig'
 ]
 
 INSTALLED_APPS = DJANGO_APPS + APPLICATION_APPS
